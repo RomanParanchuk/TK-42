@@ -14,4 +14,3 @@ This repository is created to store laboratory works, practical tasks, and other
 2. Documenting tasks and the first program.
 3. Basics of Python.
 4. Basics of Object-Oriented Programming (OOP).
-test
