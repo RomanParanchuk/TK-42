@@ -1,16 +1,16 @@
 # TK-42
-# Навчальний репозиторій
+# Educational Repository
 
-## Призначення
-Цей репозиторій створений для зберігання лабораторних робіт, практичних завдань та інших навчальних матеріалів. Він стане корисним ресурсом для організації робіт та зручного доступу до них під час навчання.
+## Purpose
+This repository is created to store laboratory works, practical tasks, and other educational materials. It will serve as a useful resource for organizing tasks and providing convenient access to them during the learning process.
 
-## Інформація про власника
-- **Ім'я:** Роман Паранчук  
-- **Навчальний заклад:** ІТ коледж Львівської політехніки  
-- **Група:** ТК-42  
+## Owner Information
+- **Name:** Roman Paranchuk  
+- **Educational Institution:** IT College of Lviv Polytechnic  
+- **Group:** TK-42  
 
-## Майбутні роботи
-1. Створення репозиторію та робота з ним.
-2. Оформлення робіт та перша програма.
-3. Основи Python.
-4. Основи об’єктно-орієнтованого програмування (ООП).
+## Future Tasks
+1. Creation of the repository and working with it.
+2. Documenting tasks and the first program.
+3. Basics of Python.
+4. Basics of Object-Oriented Programming (OOP).
